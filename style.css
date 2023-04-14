@@ -1,0 +1,31 @@
+b{
+    color: red;
+}
+
+.engine{
+    width: 400px;
+    height: 50px;
+    background-color: grey;
+    border-radius: 30px;
+}
+
+.fill{
+width: 0%;
+height: 100%;
+background-color: red;
+display: flex;
+align-items: center;
+border-radius: 30px;
+}
+
+.icon{
+    
+    height: 50px;
+    width: 50px;
+}
+
+.saleis{
+    display: flex;
+    align-items: center;
+    
+}
